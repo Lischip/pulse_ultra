@@ -1,0 +1,4 @@
+46f939685a59d3a0bbf3bcc3db2195855f20c1fb NELLS panel nl v1_2.sav
+dc47a1220aa3816e3f03b95b2d9a87ea474e340b NELLS panel nl v1_2.por
+d347a48fc77b335b8dec35cdf297a4508b67804e NELLS Panel Codebook v1.2.pdf
+8a57bb67528ded50226199808e090d51cb81432f NELLS panel nl v1_2.dta
